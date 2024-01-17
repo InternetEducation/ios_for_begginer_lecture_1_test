@@ -1,0 +1,4 @@
+#!/bin/bash
+ls
+rm student_work/testEdu1UITests/testEdu1UITests.swift
+cp testEdu1UITests.swift student_work/testEdu1UITests/testEdu1UITests.swift
